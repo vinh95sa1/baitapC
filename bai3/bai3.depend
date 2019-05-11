@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1556340247 source:c:\users\pc\desktop\bai3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1557556489 source:d:\laptrinhc\bai3\main.c
+	<stdio.h>
+	<stdlib.h>
+
